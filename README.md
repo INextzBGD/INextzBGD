@@ -1,8 +1,8 @@
 <div align="center">
   <div>
     <a href="https://github.com/WallacePRM">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallacePRM&layout=compact&langs_count=7&theme=auto&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallacePRM&show_icons=true&theme=auto&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallacePRM&layout=compact&langs_count=7&theme=auto&locale=pt-br"/>
   </div>
 
   <div><br>
